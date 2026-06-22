@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme base -->
+    <color name="bg_primary">#0F1117</color>
+    <color name="bg_card">#1A1D27</color>
+    <color name="bg_card_elevated">#21253A</color>
+    <color name="bg_surface">#252836</color>
+
+    <!-- Accent -->
+    <color name="accent_blue">#4FC3F7</color>
+    <color name="accent_blue_dim">#1A3A4F</color>
+    <color name="accent_green">#66BB6A</color>
+    <color name="accent_green_dim">#1A3A1E</color>
+    <color name="accent_amber">#FFB74D</color>
+    <color name="accent_amber_dim">#3A2E10</color>
+    <color name="accent_red">#EF5350</color>
+    <color name="accent_red_dim">#3A1010</color>
+    <color name="accent_purple">#CE93D8</color>
+
+    <!-- Text -->
+    <color name="text_primary">#EAEAEA</color>
+    <color name="text_secondary">#8A8FA8</color>
+    <color name="text_label">#5A5F78</color>
+
+    <!-- Divider -->
+    <color name="divider">#2A2E42</color>
+
+    <!-- Tab indicator -->
+    <color name="tab_selected">#4FC3F7</color>
+    <color name="tab_unselected">#5A5F78</color>
+</resources>
